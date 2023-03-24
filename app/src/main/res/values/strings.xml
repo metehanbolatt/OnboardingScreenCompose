@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OnboardingScreenCompose</string>
+
+    <string-array name="pager_string_array">
+        <item name="pager_1">You can continue by signing up for the application or logging in if you have a previously created membership.</item>
+        <item name="pager_2">You will be able to view the contents on the next page after logging in.</item>
+        <item name="pager_3">Congratulations, you have completed the onboarding process.</item>
+    </string-array>
 </resources>
